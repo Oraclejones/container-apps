@@ -228,7 +228,7 @@
         "qcsVersion": "1.5"
     },
     {
-        "description": "A vendor and technology agnostic open source automation software for home.",
+        "description": "Tobi: A vendor and technology agnostic open source automation software for home.",
         "repository": "dockerhub",
         "arch": "amd64",
         "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/2.0/images/iot_openhab.png",
