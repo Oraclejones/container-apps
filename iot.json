@@ -234,7 +234,7 @@
         "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/2.0/images/iot_openhab.png",
         "displayName": "openHAB",
         "name": "openhab/openhab",
-        "version": "2.2.0-amd64-debian",
+        "version": "3.2.0-debian",
         "location": "https://hub.docker.com/r/openhab/openhab/",
         "type": "iot",
         "qcsVersion": "1.8"
